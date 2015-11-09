@@ -1,0 +1,52 @@
+c:\users\syauqi\documents\visual studio 2012\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+c:\users\syauqi\documents\visual studio 2012\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+c:\users\syauqi\documents\visual studio 2012\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.xml
+c:\users\syauqi\documents\visual studio 2012\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+c:\users\syauqi\documents\visual studio 2012\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Resources.resources
+c:\users\syauqi\documents\visual studio 2012\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.vbproj.GenerateResource.Cache
+c:\users\syauqi\documents\visual studio 2012\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+c:\users\syauqi\documents\visual studio 2012\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.xml
+c:\users\syauqi\documents\visual studio 2012\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+c:\users\syauqi\documents\visual studio 2012\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.manifest
+c:\users\syauqi\documents\visual studio 2012\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.application
+c:\users\syauqi\documents\visual studio 2012\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe.manifest
+c:\users\syauqi\documents\visual studio 2012\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.application
+F:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+F:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.xml
+F:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+F:\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.manifest
+F:\Kalkulator\Kalkulator\bin\Debug\Kalkulator.application
+F:\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+F:\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+F:\Kalkulator\Kalkulator\bin\Debug\Kalkulator.xml
+F:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+F:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Resources.resources
+F:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.vbproj.GenerateResource.Cache
+F:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe.manifest
+F:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.application
+E:\PAK DIAN GUI\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+E:\PAK DIAN GUI\Kalkulator\Kalkulator\obj\Debug\Kalkulator.xml
+E:\PAK DIAN GUI\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+E:\PAK DIAN GUI\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.manifest
+E:\PAK DIAN GUI\Kalkulator\Kalkulator\bin\Debug\Kalkulator.application
+E:\PAK DIAN GUI\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+E:\PAK DIAN GUI\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+E:\PAK DIAN GUI\Kalkulator\Kalkulator\bin\Debug\Kalkulator.xml
+E:\PAK DIAN GUI\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+E:\PAK DIAN GUI\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Resources.resources
+E:\PAK DIAN GUI\Kalkulator\Kalkulator\obj\Debug\Kalkulator.vbproj.GenerateResource.Cache
+E:\PAK DIAN GUI\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe.manifest
+E:\PAK DIAN GUI\Kalkulator\Kalkulator\obj\Debug\Kalkulator.application
+G:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+G:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.xml
+G:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+G:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+G:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Resources.resources
+G:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.vbproj.GenerateResource.Cache
+G:\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.manifest
+G:\Kalkulator\Kalkulator\bin\Debug\Kalkulator.application
+G:\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+G:\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+G:\Kalkulator\Kalkulator\bin\Debug\Kalkulator.xml
+G:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe.manifest
+G:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.application
